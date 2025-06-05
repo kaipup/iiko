@@ -2,7 +2,7 @@
 
 const DSN = 'mysql:host=localhost;dbname=iiko;charset=utf8mb4';
 const DB_USER = 'root';
-const DB_PASS = 'www';
+const DB_PASS = '';
 
 include_once 'DbManager.php';
 include_once 'BillService.php';
