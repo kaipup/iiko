@@ -55,6 +55,8 @@ class BillService
     }
 
     /**
+     * Получает позиции счета
+     *
      * @param Bill $bill
      * @return Position[]
      */
